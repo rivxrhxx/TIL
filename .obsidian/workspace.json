@@ -216,6 +216,8 @@
   "lastOpenFiles": [
     "Backend/Concepts/JPA/ORM.md",
     "Backend/Concepts/JPA/JPA-Concepts.md",
+    "Backend/Concepts/MVC",
+    "Backend/무제",
     "Backend/Concepts/Session",
     "Backend/Concepts/Token",
     "README.md",
@@ -234,8 +236,6 @@
     "게임.game",
     "Algorithm/무제.md",
     "환영합니다!.md",
-    "Algorithm",
-    "Backend/Concepts",
     "Backend/Redis정리.md"
   ]
 }
