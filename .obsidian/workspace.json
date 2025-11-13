@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Annotations/JPA.md",
+                "file": "Backend/Concepts/Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA"
+              "title": "Redis"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Annotations/JPA.md",
+                "file": "Backend/Concepts/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "JPA 의 백링크"
+              "title": "Redis 의 백링크"
             }
           },
           {
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Annotations/JPA.md",
+                "file": "Backend/Concepts/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "JPA 의 나가는 링크"
+              "title": "Redis 의 나가는 링크"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Annotations/JPA.md",
+                "file": "Backend/Concepts/Redis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JPA 의 개요"
+              "title": "Redis 의 개요"
             }
           },
           {
@@ -214,7 +214,9 @@
   },
   "active": "46a3cbce1908451c",
   "lastOpenFiles": [
+    "Backend/Concepts/JPA.md",
     "Backend/Concepts/Redis.md",
+    "Backend/Annotations/무제.md",
     "Backend/Annotations/JPA.md",
     "무제.md",
     "게임.game",
