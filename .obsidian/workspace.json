@@ -215,7 +215,10 @@
   "active": "46a3cbce1908451c",
   "lastOpenFiles": [
     "Backend/Concepts/Redis/Redis-Concepts.md",
+    "Backend/ERRORCODE/ERRORCODE.md",
+    "Pasted image 20251113171357.png",
     "Backend/Concepts/JPA/JPA-Concepts.md",
+    "Backend/ERRORCODE",
     "Backend/Annotations/JPA",
     "Backend/Annotations/lombok",
     "Backend/Concepts/JPA",
@@ -231,7 +234,6 @@
     "Backend/Concepts",
     "Backend/Redis정리.md",
     "Backend/Annotations",
-    "Backend/Concepts/Docker",
-    "Backend"
+    "Backend/Concepts/Docker"
   ]
 }
