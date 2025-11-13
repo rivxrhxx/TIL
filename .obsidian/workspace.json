@@ -214,9 +214,11 @@
   },
   "active": "46a3cbce1908451c",
   "lastOpenFiles": [
-    "README.md",
     "Backend/Concepts/JPA/ORM.md",
     "Backend/Concepts/JPA/JPA-Concepts.md",
+    "Backend/Concepts/Session",
+    "Backend/Concepts/Token",
+    "README.md",
     "Backend/Concepts/Redis/Redis-Concepts.md",
     "Backend/ERROR-CODE/ERRORCODE.md",
     "Pasted image 20251113171357.png",
@@ -234,8 +236,6 @@
     "환영합니다!.md",
     "Algorithm",
     "Backend/Concepts",
-    "Backend/Redis정리.md",
-    "Backend/Annotations",
-    "Backend/Concepts/Docker"
+    "Backend/Redis정리.md"
   ]
 }
