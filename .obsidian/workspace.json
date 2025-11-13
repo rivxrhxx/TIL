@@ -11,12 +11,14 @@
             "id": "44e15e771546f9c3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/ERRORCODE.png"
+                "file": "Backend/Concepts/JPA/ORM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ERRORCODE"
+              "icon": "lucide-file",
+              "title": "ORM"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/ERRORCODE.png",
+                "file": "Backend/Concepts/JPA/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ERRORCODE 의 백링크"
+              "title": "ORM 의 백링크"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/ERRORCODE.png",
+                "file": "Backend/Concepts/JPA/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ERRORCODE 의 나가는 링크"
+              "title": "ORM 의 나가는 링크"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/ERRORCODE.png",
+                "file": "Backend/Concepts/JPA/ORM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ERRORCODE 의 개요"
+              "title": "ORM 의 개요"
             }
           },
           {
@@ -194,12 +196,12 @@
   },
   "active": "44e15e771546f9c3",
   "lastOpenFiles": [
+    "Backend/Concepts/JPA/JPA-Concepts.md",
+    "Backend/Concepts/JPA/ORM.md",
     "Backend/Concepts/Redis/Redis-Concepts.md",
     "Backend/ERROR-CODE/ERRORCODE.md",
-    "Backend/Concepts/JPA/ORM.md",
-    "Backend/Concepts/JPA/JPA-Concepts.md",
-    "images/JPA.png",
     "images/ERRORCODE.png",
+    "images/JPA.png",
     "README.md",
     "Pasted image 20251113222516.png",
     "Backend/Annotations/무제.md",
