@@ -12,14 +12,14 @@
             "id": "46a3cbce1908451c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Backend/Concepts/Redis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Redis"
             }
           }
         ]
@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend/Concepts/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "Redis 의 백링크"
             }
           },
           {
@@ -130,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend/Concepts/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "Redis 의 나가는 링크"
             }
           },
           {
@@ -172,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Backend/Concepts/Redis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Redis 의 개요"
             }
           },
           {
@@ -209,13 +212,14 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "0b55c640f49e3bc2",
+  "active": "46a3cbce1908451c",
   "lastOpenFiles": [
+    "Backend/Concepts/Redis.md",
+    "무제.md",
     "게임.game",
     "Algorithm/무제.md",
     "환영합니다!.md",
     "Algorithm",
-    "무제.md",
     "Backend/Concepts",
     "Backend/Redis정리.md",
     "Backend/Annotations",
