@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Concepts/JPA/JPA-Concepts.md",
+                "file": "Backend/Concepts/JPA/ORM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPA-Concepts"
+              "title": "ORM"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Concepts/JPA/JPA-Concepts.md",
+                "file": "Backend/Concepts/JPA/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "JPA-Concepts 의 백링크"
+              "title": "ORM 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Concepts/JPA/JPA-Concepts.md",
+                "file": "Backend/Concepts/JPA/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "JPA-Concepts 의 나가는 링크"
+              "title": "ORM 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Concepts/JPA/JPA-Concepts.md",
+                "file": "Backend/Concepts/JPA/ORM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JPA-Concepts 의 개요"
+              "title": "ORM 의 개요"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "44e15e771546f9c3",
   "lastOpenFiles": [
-    "images/Pasted image 20251113222126.png",
     "Backend/Concepts/JPA/JPA-Concepts.md",
+    "images/Pasted image 20251113222126.png",
     "Pasted image 20251113222516.png",
     "Backend/Annotations/무제.md",
     "images/Pasted image 20251113171357.png",
