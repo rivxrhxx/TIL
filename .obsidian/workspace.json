@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2af208a41818ea",
+        "id": "11ba6cea658c7c52",
         "type": "tabs",
-        "dimension": 82.87671232876713,
         "children": [
           {
-            "id": "46a3cbce1908451c",
+            "id": "44e15e771546f9c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "JPA-Concepts"
-            }
-          }
-        ]
-      },
-      {
-        "id": "11ba6cea658c7c52",
-        "type": "tabs",
-        "dimension": 17.123287671232877,
-        "children": [
-          {
-            "id": "44e15e771546f9c3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
             }
           }
         ]
@@ -96,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a9bb28660a84e325",
@@ -212,7 +194,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "46a3cbce1908451c",
+  "active": "0b55c640f49e3bc2",
   "lastOpenFiles": [
     "Backend/Concepts/JPA/ORM.md",
     "Backend/Concepts/JPA/JPA-Concepts.md",
