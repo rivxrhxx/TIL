@@ -12,14 +12,14 @@
             "id": "46a3cbce1908451c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Backend/Concepts/JPA/ORM.md",
-                "bFile": "Backend/Concepts/JPA/ORM.md",
-                "aRef": ""
+                "file": "Backend/Concepts/JPA/JPA-Concepts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ORM"
+              "icon": "lucide-file",
+              "title": "JPA-Concepts"
             }
           }
         ]
@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend/Concepts/JPA/JPA-Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "JPA-Concepts 의 백링크"
             }
           },
           {
@@ -130,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend/Concepts/JPA/JPA-Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "JPA-Concepts 의 나가는 링크"
             }
           },
           {
@@ -172,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Backend/Concepts/JPA/JPA-Concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "JPA-Concepts 의 개요"
             }
           },
           {
@@ -195,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
