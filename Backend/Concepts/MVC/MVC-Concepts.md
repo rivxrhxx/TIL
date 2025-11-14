@@ -1,1 +1,1 @@
-![[MVC.jpg]]
+![[MVC.png]]
