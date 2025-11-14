@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Concepts/JPA/ORM.md",
+                "file": "Backend/Concepts/Security/Session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ORM"
+              "title": "Session"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Concepts/JPA/ORM.md",
+                "file": "Backend/Concepts/Security/Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ORM 의 백링크"
+              "title": "Session 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Concepts/JPA/ORM.md",
+                "file": "Backend/Concepts/Security/Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ORM 의 나가는 링크"
+              "title": "Session 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Concepts/JPA/ORM.md",
+                "file": "Backend/Concepts/Security/Session.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ORM 의 개요"
+              "title": "Session 의 개요"
             }
           },
           {
@@ -196,9 +196,12 @@
   },
   "active": "44e15e771546f9c3",
   "lastOpenFiles": [
-    "Backend/Concepts/JPA/JPA-Concepts.md",
-    "Backend/Concepts/JPA/ORM.md",
     "Backend/Concepts/Redis/Redis-Concepts.md",
+    "Backend/Concepts/Security/Session.md",
+    "Backend/Concepts/Security/Token.md",
+    "Backend/Concepts/JPA/ORM.md",
+    "Backend/Concepts/JPA/JPA-Concepts.md",
+    "Backend/Concepts/Security",
     "Backend/ERROR-CODE/ERRORCODE.md",
     "images/ERRORCODE.png",
     "images/JPA.png",
@@ -208,14 +211,13 @@
     "images",
     "Backend/Concepts/MVC",
     "Backend/무제",
-    "Backend/Concepts/Session",
-    "Backend/Concepts/Token",
+    "Backend/Concepts/Security/Session",
+    "Backend/Concepts/Security/Token",
     "Backend/ERROR-CODE",
     "Backend/Annotations/JPA",
     "Backend/Annotations/lombok",
     "Backend/Concepts/JPA",
     "Backend/Concepts/JPA.md",
-    "Backend/Concepts/Redis",
     "Backend/Annotations/JPA.md",
     "무제.md",
     "Algorithm/무제.md",
