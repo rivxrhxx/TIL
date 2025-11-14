@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Concepts/Security/Session.md",
+                "file": "Backend/Concepts/MVC/MVC-Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session"
+              "title": "MVC-Concepts"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Concepts/Security/Session.md",
+                "file": "Backend/Concepts/MVC/MVC-Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Session 의 백링크"
+              "title": "MVC-Concepts 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Concepts/Security/Session.md",
+                "file": "Backend/Concepts/MVC/MVC-Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Session 의 나가는 링크"
+              "title": "MVC-Concepts 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Concepts/Security/Session.md",
+                "file": "Backend/Concepts/MVC/MVC-Concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Session 의 개요"
+              "title": "MVC-Concepts 의 개요"
             }
           },
           {
@@ -196,14 +196,16 @@
   },
   "active": "44e15e771546f9c3",
   "lastOpenFiles": [
-    "Backend/Concepts/Redis/Redis-Concepts.md",
     "Backend/Concepts/Security/Session.md",
+    "Backend/Concepts/MVC/MVC-Concepts.md",
+    "Backend/Concepts/Redis/Redis-Concepts.md",
     "Backend/Concepts/Security/Token.md",
+    "images/MVC.jpg",
+    "images/ERRORCODE.png",
     "Backend/Concepts/JPA/ORM.md",
     "Backend/Concepts/JPA/JPA-Concepts.md",
     "Backend/Concepts/Security",
     "Backend/ERROR-CODE/ERRORCODE.md",
-    "images/ERRORCODE.png",
     "images/JPA.png",
     "README.md",
     "Pasted image 20251113222516.png",
