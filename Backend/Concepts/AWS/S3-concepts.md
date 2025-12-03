@@ -8,6 +8,7 @@ Amazon Simple Storage Service의 약자로 데이터를 객체단위로 관리�
 
 s3는 이외에도 웹 서버 역할을 수행하기도 하고 쿼리를 사용하여 집계 기능도 수행할 수 있다.
 
+![AmazonS3](images/AmazonS3.png)
 ## S3용어
 
 - 버킷: 객체를 저장하는공간
