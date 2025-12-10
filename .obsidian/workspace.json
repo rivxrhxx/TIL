@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Concepts/DesignPattern/Facade Pattern.md",
+                "file": "Language/OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Facade Pattern"
+              "title": "OOP"
             }
           }
         ],
@@ -97,7 +97,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -253,12 +253,18 @@
   },
   "active": "fd1641a7e293b6af",
   "lastOpenFiles": [
-    "Backend/Concepts/무제.md",
+    "Language/PPL.md",
+    "Language/OOP.md",
+    "Language/PYTHON",
+    "Language/JAVA",
+    "Language/C",
+    "README.md",
+    "Language",
     "Backend/Concepts/DesignPattern/Facade Pattern.md",
+    "Backend/Concepts/무제.md",
     "Backend/Concepts/DesignPattern",
     "images/ERRORCODE.png",
     "images/AmazonS3.png",
-    "README.md",
     "Backend/Concepts/(Authentication)(Authorization)/Cookie.md",
     "Backend/Concepts/(Authentication)(Authorization)/JWT.md",
     "Backend/Concepts/(Authentication)(Authorization)/Session.md",
@@ -286,15 +292,10 @@
     "Pasted image 20251113222516.png",
     "Backend/Annotations/무제.md",
     "images",
-    "Backend/Concepts/MVC",
-    "Backend/무제",
-    "Backend/Concepts/Security/Session",
-    "Backend/Concepts/Security/Token",
     "Backend/Concepts/JPA.md",
     "Backend/Annotations/JPA.md",
     "무제.md",
     "Algorithm/무제.md",
-    "환영합니다!.md",
-    "Backend/Redis정리.md"
+    "환영합니다!.md"
   ]
 }
