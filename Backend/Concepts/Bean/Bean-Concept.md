@@ -18,4 +18,4 @@ bean은 스프링 컨테이너에 의해 관리되는 재사용 가능한 컴포
 - Xml에 직접등록
 - @bean 어노테이션 활용
 - @Component, @Controller, @Service, @Repository 어노테이션을 이용
-- @@configuration 위에쓰고 메서드마다 각각 @bean
+- @configuration 위에쓰고 메서드마다 각각 @bean

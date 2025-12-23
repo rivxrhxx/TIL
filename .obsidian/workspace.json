@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Annotations/@Valid.md",
+                "file": "Backend/Concepts/AWS/S3-concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Valid"
+              "title": "S3-concepts"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5
   },
   "right": {
     "id": "a9bb28660a84e325",
@@ -253,18 +253,28 @@
   },
   "active": "fd1641a7e293b6af",
   "lastOpenFiles": [
-    "Backend/Annotations/@PathVariable.md",
-    "Backend/Annotations/@Valid.md",
-    "Backend/Annotations/Concepts.md",
+    "Backend/Concepts/(Authentication)(Authorization)/Session.md",
+    "Backend/Concepts/(Authentication)(Authorization)/JWT.md",
+    "Backend/Concepts/JPA/ORM.md",
+    "Backend/Concepts/Bean/Bean-Concept.md",
+    "Backend/Concepts/Transaction/Concepts.md",
     "Backend/Annotations/lombok/Concepts.md",
+    "Backend/Annotations/lombok/@RequiredArgsConstructor.md",
+    "Backend/Concepts/Bean/SpringContainer.md",
+    "Backend/Concepts/JPA/JPA-Concepts.md",
     "Backend/Concepts/SOLID/SOLID-concepts.md",
     "Backend/Concepts/Redis/Redis-Concepts.md",
+    "Backend/Concepts/MVC/Model.md",
+    "Backend/Concepts/MVC/MVC-Concepts.md",
+    "Backend/Concepts/MVC/View.md",
+    "Backend/Concepts/MVC/Controller.md",
+    "Backend/Concepts/AWS/S3-concepts.md",
     "Backend/Concepts/DesignPattern/Facade Pattern.md",
     "Backend/Concepts/DesignPattern/Singleton Pattern.md",
-    "Backend/Concepts/Transaction/Concepts.md",
+    "Backend/Annotations/@Valid.md",
+    "Backend/Annotations/@PathVariable.md",
+    "Backend/Annotations/Concepts.md",
     "Backend/Concepts/Transaction",
-    "Backend/Concepts/JPA/ORM.md",
-    "Backend/Concepts/JPA/JPA-Concepts.md",
     "Backend/Concepts/(Authentication)(Authorization)/Token.md",
     "Language/PPL.md",
     "Language/JAVA/Constructor.md",
@@ -272,16 +282,6 @@
     "Language/무제.md",
     "Backend/Concepts/IOC DI",
     "Backend/Concepts/IOC.md",
-    "Backend/Concepts/Bean/Bean-Concept.md",
-    "Backend/Concepts/MVC/MVC-Concepts.md",
-    "Backend/Concepts/MVC/Model.md",
-    "Backend/Concepts/MVC/Controller.md",
-    "Backend/Concepts/MVC/View.md",
-    "Backend/Concepts/Bean/SpringContainer.md",
-    "Backend/Concepts/(Authentication)(Authorization)/Session.md",
-    "Backend/Concepts/(Authentication)(Authorization)/Concepts.md",
-    "Backend/Concepts/(Authentication)(Authorization)/Cookie.md",
-    "Backend/Concepts/(Authentication)(Authorization)/JWT.md",
     "images/ERRORCODE.png",
     "images/JPA.png",
     "Backend/Concepts/SOLID",
