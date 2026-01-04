@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Concepts/AWS/Elastic-IP.md",
+                "file": "Backend/Concepts/Security/Concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elastic-IP"
+              "title": "Concept"
             }
           }
         ],
@@ -253,8 +253,9 @@
   },
   "active": "fd1641a7e293b6af",
   "lastOpenFiles": [
-    "Backend/Annotations/lombok/@AllArgsConstructor.md",
     "Backend/Concepts/AWS/Elastic-IP.md",
+    "Backend/Concepts/Security/Concept.md",
+    "Backend/Annotations/lombok/@AllArgsConstructor.md",
     "Backend/Annotations/lombok/@NoArgsConstructor.md",
     "Backend/Annotations/lombok/@RequiredArgsConstructor.md",
     "Backend/Annotations/lombok/Concepts.md",
@@ -273,7 +274,7 @@
     "Language/JAVA/SOLID/SOLID-concepts.md",
     "Backend/Annotations/@PathVariable.md",
     "Language/JAVA/JVM.md",
-    "Backend/Concepts/(Authentication)(Authorization)/Token.md",
+    "Backend/Concepts/Security/(Authentication)(Authorization)/Token.md",
     "Language/JAVA/Constructor.md",
     "images/MVC.png",
     "images/JPA.png",
@@ -281,7 +282,6 @@
     "Backend/Concepts/MVC/View.md",
     "Backend/Concepts/MVC/Model.md",
     "Backend/Concepts/MVC/Controller.md",
-    "Backend/Concepts/AWS/S3-concepts.md",
     "Backend/Concepts/Transaction",
     "Language/Kotlin",
     "Backend/Concepts/IOC DI",
