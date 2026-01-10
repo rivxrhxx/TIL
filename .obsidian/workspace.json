@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Annotations/@Validated.md",
+                "file": "Language/JAVA/Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Validated"
+              "title": "Interface"
             }
           }
         ],
@@ -253,24 +253,26 @@
   },
   "active": "fd1641a7e293b6af",
   "lastOpenFiles": [
-    "Backend/Annotations/@Valid.md",
-    "Backend/Annotations/@Validated.md",
     "Backend/Annotations/@PathVariable.md",
+    "Language/JAVA/Interface.md",
+    "Backend/Concepts/JPA/ORM.md",
+    "Backend/Concepts/JPA/JPA-Concepts.md",
+    "Backend/Concepts/AWS/Elastic-IP.md",
+    "Backend/Concepts/AWS/S3-concepts.md",
+    "Backend/SpringBoot/Concept.md",
+    "Backend/Annotations/@Valid.md",
     "Backend/Annotations/Concepts.md",
+    "Backend/Annotations/@Validated.md",
     "Backend/Concepts/Redis/Redis-Concepts.md",
     "Backend/Concepts/Security/Concept.md",
-    "Backend/Concepts/AWS/Elastic-IP.md",
     "Backend/Annotations/lombok/@AllArgsConstructor.md",
     "Backend/Annotations/lombok/@NoArgsConstructor.md",
     "Backend/Annotations/lombok/@RequiredArgsConstructor.md",
     "Backend/Annotations/lombok/Concepts.md",
     "Backend/Concepts/Bean/SpringContainer.md",
     "Backend/Concepts/Transaction/Concepts.md",
-    "Backend/Concepts/JPA/JPA-Concepts.md",
     "Backend/Concepts/DesignPattern/Facade Pattern.md",
-    "Backend/Concepts/JPA/ORM.md",
     "Backend/Concepts/DesignPattern/Singleton Pattern.md",
-    "Backend/SpringBoot/Concept.md",
     "README.md",
     "Backend/SpringBoot",
     "Language/JAVA/SOLID/SOLID-concepts.md",
@@ -280,8 +282,6 @@
     "images/MVC.png",
     "images/JPA.png",
     "Backend/Concepts/MVC/MVC-Concepts.md",
-    "Backend/Concepts/MVC/View.md",
-    "Backend/Concepts/MVC/Model.md",
     "Backend/Concepts/Transaction",
     "Language/Kotlin",
     "Backend/Concepts/IOC DI",
