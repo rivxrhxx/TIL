@@ -17,3 +17,4 @@
 2. Manipulates : Controller는 사용자가 요청한 웹페이지를 보여주기위해 Model 호출
 3. Updates : Model은 비즈니스 로직을 통해 DB및 파일과같은 데이터 제어후 결과반환 이후 Controller는 Model에게 반환받은 결과를 View에 반영
 4. Sees: 데이터를 받아온 View가 사용자 웹사이트에 보여줌
+[[View]][[Model]][[Controller]]
