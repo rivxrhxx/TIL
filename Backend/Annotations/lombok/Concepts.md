@@ -5,7 +5,9 @@ Lombok이란 어노테이션 기반으로 **코드 자동완성 기능**을 제�
 Spring boot로 개발을하다보면 반복코드가 나오는데 이는 가독성을 떨어트림
 
 예를 들어보면 **Getter, Setter, ToString, Constructor(생성자)**가 대표적인 예제이다
-
+[[@RequiredArgsConstructor]]
+[[@NoArgsConstructor]]
+[[@AllArgsConstructor]]
 ## Lombok의 장점
 
 - 어노테이션을 통한 코드 자동 생성을 통한 생산성,편의성 증가
