@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Concepts/Redis/Redis-Concepts.md",
+                "file": "Backend/Concepts/Messaging/RabbitMQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis-Concepts"
+              "title": "RabbitMQ"
             }
           }
         ],
@@ -251,8 +251,12 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "0b55c640f49e3bc2",
+  "active": "fd1641a7e293b6af",
   "lastOpenFiles": [
+    "Backend/Concepts/Messaging/AMQP.md",
+    "Backend/Concepts/Messaging/RabbitMQ.md",
+    "Backend/Concepts/Redis/Redis-Concepts.md",
+    "Backend/Concepts/Messaging",
     "Backend/Concepts/Core/Transaction/Concepts.md",
     "Language/JAVA/Interface.md",
     "Language/JAVA/Constructor.md",
@@ -280,9 +284,6 @@
     "Backend/Concepts/Architecture/DesignPattern/Singleton Pattern.md",
     "images/msa.png",
     "Backend/Concepts/Architecture",
-    "Backend/Concepts/MVC/Controller.md",
-    "Backend/Concepts/MVC/Model.md",
-    "Backend/Concepts/Redis/Redis-Concepts.md",
     "images/MVC.png",
     "images/JPA.png",
     "images/AmazonS3.png",
@@ -293,7 +294,6 @@
     "Backend/Concepts/Core/IOC DI",
     "Language/JAVA/SOLID",
     "Backend/Concepts/OOP",
-    "Language/C/Sort",
     "Pasted image 20251203223256.png",
     "Pasted image 20251203223241.png",
     "images/MVC.jpg",
