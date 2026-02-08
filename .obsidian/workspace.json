@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Concepts/Messaging/RabbitMQ.md",
+                "file": "Backend/Concepts/Security/(Authentication)(Authorization)/Token.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RabbitMQ"
+              "title": "Token"
             }
           }
         ],
@@ -251,17 +251,19 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "fd1641a7e293b6af",
+  "active": "0b55c640f49e3bc2",
   "lastOpenFiles": [
     "Backend/Concepts/Messaging/AMQP.md",
     "Backend/Concepts/Messaging/RabbitMQ.md",
+    "Backend/Concepts/JPA/ORM.md",
+    "Backend/Concepts/Architecture/DesignPattern/Facade Pattern.md",
+    "Language/JAVA/Override.md",
     "Backend/Concepts/Redis/Redis-Concepts.md",
     "Backend/Concepts/Messaging",
     "Backend/Concepts/Core/Transaction/Concepts.md",
     "Language/JAVA/Interface.md",
     "Language/JAVA/Constructor.md",
     "Language/JAVA/JVM.md",
-    "Language/JAVA/Override.md",
     "Language/OOP.md",
     "Language/PPL.md",
     "Language/JAVA/SOLID/SOLID-concepts.md",
@@ -280,8 +282,6 @@
     "Backend/Concepts/Core/Bean/SpringContainer.md",
     "Backend/Concepts/MVC/View.md",
     "Backend/Concepts/MVC/MVC-Concepts.md",
-    "Backend/Concepts/Core/Bean/Bean-Concept.md",
-    "Backend/Concepts/Architecture/DesignPattern/Singleton Pattern.md",
     "images/msa.png",
     "Backend/Concepts/Architecture",
     "images/MVC.png",
