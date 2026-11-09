@@ -17,3 +17,8 @@
 어떤 개체가 어떤 리소스에 접근할수있는지 또는 어떤 동작을 할수있는지 검증하는것 즉 접근 권한을 얻는일
 
 예: 공연장 티켓에 있는 자신이 앉을수있는 좌석
+
+## 관련 개념
+
+- [[Backend/Concepts/Security/(Authentication)(Authorization)/Session|Session]] — 로그인 상태를 서버에서 관리하는 방식.
+- [[Backend/Concepts/Security/(Authentication)(Authorization)/Token|Token]] — 요청에 토큰을 전달하여 인증하는 방식.

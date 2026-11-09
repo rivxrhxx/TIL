@@ -38,3 +38,7 @@ public class Cat implements Animal{
 한마디로.
 
 **공통적으로 수행해야할 기본적인 기능을 인터페이스가 정의하여 제공한다는 말이다**
+
+## 관련 개념
+
+- [[Language/JAVA/Override|오버라이딩]] — 본문의 구현 클래스 예제에 등장하는 메서드 재정의.

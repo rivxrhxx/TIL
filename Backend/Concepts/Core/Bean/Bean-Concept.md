@@ -20,3 +20,7 @@ bean은 스프링 컨테이너에 의해 관리되는 재사용 가능한 컴포
 - @bean 어노테이션 활용
 - @Component, @Controller, @Service, @Repository 어노테이션을 이용
 - @configuration 위에쓰고 메서드마다 각각 @bean
+
+## 관련 개념
+
+- [[Backend/Concepts/Architecture/DesignPattern/Singleton Pattern|Singleton Pattern]] — 객체 재사용 관점을 비교. Spring의 싱글톤 스코프와 GoF 싱글톤 패턴은 구분해서 학습.

@@ -9,3 +9,7 @@ Lombok 라이브러리에서 제공하는 어노테이션으로 필수인자를 
 - final 필드나 @NonNull 어노테이션이 붙은 필드에 대한 생성자를 자동으로 생성합니다
 - 생성자를 통한 의존성 주입을 간편하게 만들어줍니다.
 - 코드의 양을 줄이고 가독성을 높힌다
+
+## 관련 개념
+
+- [[Backend/Concepts/Core/Bean/Bean-Concept|Spring Bean]] — 본문의 생성자 주입을 Spring 객체의 의존관계 관리와 함께 학습.

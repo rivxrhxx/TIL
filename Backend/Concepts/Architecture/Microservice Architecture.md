@@ -21,3 +21,8 @@ MSA에 적합된 상황
 
 - 대규모 및 복잡한프로젝트
 - 시스템을 독립적으로 개발하고 확장해야 하는 경우
+
+## 관련 개념
+
+- [[Backend/Concepts/Messaging/RabbitMQ|RabbitMQ]] — 서비스 간 비동기 메시징을 구성할 때 선택할 수 있는 브로커.
+- [[Backend/Concepts/Infra/CICD/Concept|CI/CD]] — 본문의 서비스별 독립 배포와 배포 자동화의 관계.

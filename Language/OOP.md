@@ -74,3 +74,10 @@ public class Main {
 
 - 처리속도가 절차지향보다 느림
 - 설계에 많은 시간소요가 들어감
+
+## 관련 개념
+
+- [[Language/JAVA/Constructor|생성자]] — 객체의 초기 상태를 만드는 방법.
+- [[Language/JAVA/Interface|Java 인터페이스]] — 공통 동작의 계약과 다형성을 이해하는 Java 개념.
+- [[Language/JAVA/Override|오버라이딩]] — 상속과 다형성에서 메서드를 재정의하는 방법.
+- [[Language/PPL|절차지향]] — 코드를 조직하는 방식을 비교하며 읽을 노트.

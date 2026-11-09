@@ -43,3 +43,7 @@ implementation 'org.springframework.boot:spring-boot-starter-validation'
 ```java
 public ResponseEntity<Void> updateNotice(@PathVariable Long id, @Valid @RequestBody NoticeUpdateRequest request)
 ```
+
+## 관련 개념
+
+- [[Backend/Annotations/@Validated|@Validated]] — 같은 검증 주제를 다루므로 적용 방식과 사용 범위를 비교.

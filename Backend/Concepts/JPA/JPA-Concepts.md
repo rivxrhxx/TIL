@@ -20,3 +20,8 @@ JDBC(자바 프로그램과 DB를 연결시켜주는 API)
 | @Column     | 필드를 컬럼에 매핑함 ex) @Column(name=”AGE”                      |
 | 매핑 어노테이션 없음 | 매핑 어노테이션이 없다면 DB에 이름이 같은 컬럼으로 매핑됨                       |
    
+
+## 관련 개념
+
+- [[Backend/Concepts/Core/Transaction/Concepts|트랜잭션]] — 데이터 변경 작업의 일관성과 작업 단위를 함께 학습.
+- [[Backend/Concepts/JPA/N+1|N+1 문제]] — 연관 엔티티 조회에서 발생할 수 있는 추가 쿼리 문제.

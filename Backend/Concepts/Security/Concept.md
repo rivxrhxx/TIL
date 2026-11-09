@@ -34,3 +34,8 @@ Spring security 특징
 8. 인증 객체 or AuthenticationException
 9. 인증끝
 10. SecurityContext에 인증 객체를 설정
+
+## 관련 개념
+
+- [[Backend/Concepts/Security/(Authentication)(Authorization)/Concepts|인증과 인가]] — 프레임워크가 담당하는 인증과 인가의 기본 개념.
+- [[Backend/Concepts/Core/Bean/Bean-Concept|Spring Bean]] — 본문에 나오는 보안 설정 Bean을 이해하는 기초.

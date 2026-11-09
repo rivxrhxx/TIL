@@ -7,3 +7,10 @@
 ### 톰캣(Tomcat)
 
 톰캣은 클라이언트에 요청을 해석하여 그에 맞는 자바 프로그램을 실행한 후 그 결과를 응답해주는 웹애플리케이션 서버이다.
+
+## 관련 개념
+
+- [[Backend/Concepts/Core/Bean/SpringContainer|Spring 컨테이너]] — Spring이 객체의 생성과 생명주기를 관리하는 기반.
+- [[Backend/Concepts/MVC/MVC-Concepts|MVC]] — 웹 요청을 처리하는 애플리케이션 구조.
+- [[Language/JAVA/JVM|JVM]] — Java 기반 애플리케이션이 실행되는 환경.
+- [[Backend/Concepts/Security/Concept|Spring Security]] — 웹 애플리케이션에 인증과 인가를 적용할 때 함께 학습.

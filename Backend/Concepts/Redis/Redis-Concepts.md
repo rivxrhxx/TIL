@@ -33,3 +33,8 @@ DB는 데이터를 **직접저장**하기 때문에 데이터가 손실되지않
 - 데이터를 메모리에 저장해 대기시간을 낮추고 처리량을 높힘
 - Redis는 영속성을 보장하기위해 데이터를 디스크에 저장함 
 - 주 용도는 캐싱, 채팅,메세징  및 대기열 , 랭킹보드(순위표),인증토큰 저장,실시간분석 
+
+## 관련 개념
+
+- [[Backend/Concepts/Security/(Authentication)(Authorization)/Token|Token]] — 본문에서 언급한 인증 토큰 저장 활용과 연결.
+- [[Backend/Concepts/Infra/Gatling/Concept|Gatling]] — 캐시 도입 전후의 응답 시간과 부하를 비교하는 학습 흐름.

@@ -14,3 +14,10 @@
 |@Deprecated|더 이상 사용하지 않는 코드임을 표시|
 |@SuppressWarnings|컴파일 경고를 무시하도록 설정|
 |@FunctionalInterface|함수형 인터페이스임을 명시|
+
+## 관련 개념
+
+- [[Language/JAVA/Override|오버라이딩]] — 본문의 대표 어노테이션 표에 등장하는 메서드 재정의.
+- [[Backend/Annotations/lombok/Concepts|Lombok]] — 어노테이션으로 반복 코드를 생성하는 활용 예.
+- [[Backend/Annotations/@PathVariable|@PathVariable]] — 웹 요청의 경로 변수를 다루는 어노테이션.
+- [[Backend/Annotations/@Valid|@Valid]] — 입력 데이터 검증에 사용하는 어노테이션.

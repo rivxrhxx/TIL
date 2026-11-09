@@ -19,3 +19,7 @@
 - 세션 ID로 클라이언트를 구분해 각 맞는 서비스 제공
 - 보안면에서는 쿠키보다 우수 속도는 쿠키가 더빠름
 - 사용자가 많아질수록 서버 메모리가 많이차지~
+
+## 관련 개념
+
+- [[Backend/Concepts/Security/(Authentication)(Authorization)/Cookie|Cookie]] — 본문의 세션 ID를 브라우저와 서버 사이에 전달하는 데 사용.

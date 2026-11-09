@@ -18,3 +18,8 @@ Real Time Web application 구현을 위해 널리 사용되어지고있다.
 
 - WebSocket은 **stateful** 프로토콜로써 connection을 항상 유지해야하기 때문에 트래픽이 많은 경우 서버에 부담이 될 수 있다.
 - 연결이 계속 유지되어야 하기 때문에, 연결이 끊어졌을 때 적절히 대응할 수 있어야 한다.
+
+## 관련 개념
+
+- [[Backend/Concepts/Messaging/RabbitMQ|RabbitMQ]] — 클라이언트와의 실시간 통신 및 서버 측 메시지 분배를 함께 설계할 때 비교. 두 기술의 역할은 다름.
+- [[Backend/Concepts/Security/Concept|Spring Security]] — 연결과 메시지 접근 권한을 설계할 때 함께 고려할 보안 주제.

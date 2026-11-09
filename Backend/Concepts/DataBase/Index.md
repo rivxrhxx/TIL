@@ -39,3 +39,8 @@
 - 해당 컬럼이 Where조건에 자주 사용되는 경우
 - 해당 컬럼이 Join의 조건이 되는 경우
 - 해당 테이블의 데이터의 변경(Insert, Update, Delete) 작업이 자주 일어나지 않는 경우
+
+## 관련 개념
+
+- [[Backend/Concepts/JPA/N+1|N+1 문제]] — 조회 성능 문제를 비교. 인덱스는 쿼리 실행 비용, N+1은 추가 쿼리 발생에 초점을 둠.
+- [[Backend/Concepts/Infra/Gatling/Concept|Gatling]] — 인덱스 적용 전후의 애플리케이션 응답 성능을 측정하는 학습 흐름.

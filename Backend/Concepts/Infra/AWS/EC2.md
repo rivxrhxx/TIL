@@ -7,3 +7,8 @@
 인스턴스는 EC2를 생성할때 사용하는 단위로 **1대의 컴퓨터를 의미하고 생성시 OS 등 가상 서버 관련 설정을 선택**할수있다 (예 : ubuntu, window)
 
 **사용한 만큼 비용을 지불**하기 때문에 탄력적인 이라는 의미의 **Elastic**이라는 단어가 붙어있다. Elastic은 **비용**적인 부분 뿐만이 아니라 필요에 따라 **성능, 용량**을 자유롭게 조절할 수 있다는 의미도 가지고 있다
+
+## 관련 개념
+
+- [[Backend/Concepts/Infra/AWS/Elastic-IP|Elastic IP]] — 인스턴스에 고정 공인 IP를 연결하는 사용 사례.
+- [[Backend/Concepts/Infra/AWS/S3-concepts|Amazon S3]] — 서버 실행과 객체 파일 저장의 역할을 구분하는 AWS 서비스 비교.

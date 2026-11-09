@@ -20,3 +20,8 @@ public class MyClass {
     // }
 }
 ```
+
+## 관련 개념
+
+- [[Language/JAVA/Constructor|생성자]] — 매개변수가 없는 생성자의 의미.
+- [[Backend/Concepts/JPA/JPA-Concepts|JPA]] — 본문에서 언급한 엔티티 생성과 기본 생성자의 관계.

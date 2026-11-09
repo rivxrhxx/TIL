@@ -17,3 +17,7 @@
 
 
  [[SpringBatch]]
+
+## 관련 개념
+
+- [[Backend/Concepts/Core/Transaction/Concepts|트랜잭션]] — 대량 데이터 처리에서 작업 단위와 실패 시 처리를 함께 고려.
